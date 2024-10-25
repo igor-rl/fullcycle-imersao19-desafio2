@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![header-igor-projetos](https://github.com/igor-rl/assets/blob/main/img/github-projetcs-header.jpg)
 
-## Getting Started
+![header-igor-projetos](https://events-fullcycle.s3.amazonaws.com/events-fullcycle/media/images/a06b6a97db354487b1ee6bee9ef9f123.svg)
 
-First, run the development server:
+# DESAFIO 2 - NEXT.JS
 
+### Criando uma aplicação Next.js
+
+Neste desafio você precisa criar uma aplicação Next.js com uma página que liste os posts do endereço https://jsonplaceholder.typicode.com/posts.
+
+A estilização precisa ser feita com o TailwindCSS, utilize sua criatividade para listar os posts de maneira elegante. Na listagem deve ter apenas o título do post.
+
+
+Ao clicar em um item da listagem precisamos ser redirecionado para uma página que mostre o título e o conteúdo do post escolha.
+
+
+Disponibilize a aplicação em um repositório Git que permita-se roda-la em http://localhost:3000/ ao fazer os comandos npm install e npm run dev
+
+# Comandos para iniciar a aplicação
+Instale as dependências:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Inicialize a aplicação:
+```bash
+npm run dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Agora é só acessar a aplicação em [localhost:3000](http://127.0.0.1:3000).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<div align="center">
 
-## Learn More
+[![GitHub](https://img.shields.io/badge/GitHub-Igor_Lage-blue?style=social&logo=github)](https://github.com/igor-rl) 
 
-To learn more about Next.js, take a look at the following resources:
+![Static Badge](https://img.shields.io/badge/24--10--2024-black)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+</div>
